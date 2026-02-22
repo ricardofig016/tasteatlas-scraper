@@ -1,0 +1,1027 @@
+{
+  "afghanistan": {
+    "name": "Afghanistan",
+    "tasteatlas_url": "https://www.tasteatlas.com/afghanistan",
+    "continent": "Asia"
+  },
+  "albania": {
+    "name": "Albania",
+    "tasteatlas_url": "https://www.tasteatlas.com/albania",
+    "continent": "Europe"
+  },
+  "algeria": {
+    "name": "Algeria",
+    "tasteatlas_url": "https://www.tasteatlas.com/algeria",
+    "continent": "Africa"
+  },
+  "american_samoa": {
+    "name": "American Samoa",
+    "tasteatlas_url": "https://www.tasteatlas.com/american-samoa",
+    "continent": "Australia"
+  },
+  "andorra": {
+    "name": "Andorra",
+    "tasteatlas_url": "https://www.tasteatlas.com/andorra",
+    "continent": "Europe"
+  },
+  "angola": {
+    "name": "Angola",
+    "tasteatlas_url": "https://www.tasteatlas.com/angola",
+    "continent": "Africa"
+  },
+  "antigua_and_barbuda": {
+    "name": "Antigua and Barbuda",
+    "tasteatlas_url": "https://www.tasteatlas.com/antigua-and-barbuda",
+    "continent": "North America"
+  },
+  "argentina": {
+    "name": "Argentina",
+    "tasteatlas_url": "https://www.tasteatlas.com/argentina",
+    "continent": "South America"
+  },
+  "armenia": {
+    "name": "Armenia",
+    "tasteatlas_url": "https://www.tasteatlas.com/armenia",
+    "continent": "Europe"
+  },
+  "aruba": {
+    "name": "Aruba",
+    "tasteatlas_url": "https://www.tasteatlas.com/aruba",
+    "continent": "North America"
+  },
+  "australia": {
+    "name": "Australia",
+    "tasteatlas_url": "https://www.tasteatlas.com/australia",
+    "continent": "Australia"
+  },
+  "austria": {
+    "name": "Austria",
+    "tasteatlas_url": "https://www.tasteatlas.com/austria",
+    "continent": "Europe"
+  },
+  "azerbaijan": {
+    "name": "Azerbaijan",
+    "tasteatlas_url": "https://www.tasteatlas.com/azerbaijan",
+    "continent": "Europe"
+  },
+  "bahrain": {
+    "name": "Bahrain",
+    "tasteatlas_url": "https://www.tasteatlas.com/bahrain",
+    "continent": "Asia"
+  },
+  "bangladesh": {
+    "name": "Bangladesh",
+    "tasteatlas_url": "https://www.tasteatlas.com/bangladesh",
+    "continent": "Asia"
+  },
+  "barbados": {
+    "name": "Barbados",
+    "tasteatlas_url": "https://www.tasteatlas.com/barbados",
+    "continent": "North America"
+  },
+  "belarus": {
+    "name": "Belarus",
+    "tasteatlas_url": "https://www.tasteatlas.com/belarus",
+    "continent": "Europe"
+  },
+  "belgium": {
+    "name": "Belgium",
+    "tasteatlas_url": "https://www.tasteatlas.com/belgium",
+    "continent": "Europe"
+  },
+  "benin": {
+    "name": "Benin",
+    "tasteatlas_url": "https://www.tasteatlas.com/benin",
+    "continent": "Africa"
+  },
+  "bermuda": {
+    "name": "Bermuda",
+    "tasteatlas_url": "https://www.tasteatlas.com/bermuda",
+    "continent": "North America"
+  },
+  "bhutan": {
+    "name": "Bhutan",
+    "tasteatlas_url": "https://www.tasteatlas.com/bhutan",
+    "continent": "Asia"
+  },
+  "bih": {
+    "name": "Bosnia and Herzegovina",
+    "tasteatlas_url": "https://www.tasteatlas.com/bih",
+    "continent": "Europe"
+  },
+  "bolivia": {
+    "name": "Bolivia",
+    "tasteatlas_url": "https://www.tasteatlas.com/bolivia",
+    "continent": "South America"
+  },
+  "bonaire": {
+    "name": "Bonaire",
+    "tasteatlas_url": "https://www.tasteatlas.com/bonaire",
+    "continent": "North America"
+  },
+  "botswana": {
+    "name": "Botswana",
+    "tasteatlas_url": "https://www.tasteatlas.com/botswana",
+    "continent": "Africa"
+  },
+  "brazil": {
+    "name": "Brazil",
+    "tasteatlas_url": "https://www.tasteatlas.com/brazil",
+    "continent": "South America"
+  },
+  "british_virgin_islands": {
+    "name": "British Virgin Islands",
+    "tasteatlas_url": "https://www.tasteatlas.com/british-virgin-islands",
+    "continent": "Europe"
+  },
+  "brunei": {
+    "name": "Brunei",
+    "tasteatlas_url": "https://www.tasteatlas.com/brunei",
+    "continent": "Asia"
+  },
+  "bulgaria": {
+    "name": "Bulgaria",
+    "tasteatlas_url": "https://www.tasteatlas.com/bulgaria",
+    "continent": "Europe"
+  },
+  "burkina_faso": {
+    "name": "Burkina Faso",
+    "tasteatlas_url": "https://www.tasteatlas.com/burkina-faso",
+    "continent": "Africa"
+  },
+  "burundi": {
+    "name": "Burundi",
+    "tasteatlas_url": "https://www.tasteatlas.com/burundi",
+    "continent": "Africa"
+  },
+  "cambodia": {
+    "name": "Cambodia",
+    "tasteatlas_url": "https://www.tasteatlas.com/cambodia",
+    "continent": "Asia"
+  },
+  "cameroon": {
+    "name": "Cameroon",
+    "tasteatlas_url": "https://www.tasteatlas.com/cameroon",
+    "continent": "Africa"
+  },
+  "canada": {
+    "name": "Canada",
+    "tasteatlas_url": "https://www.tasteatlas.com/canada",
+    "continent": "North America"
+  },
+  "cape_verde": {
+    "name": "Cape Verde",
+    "tasteatlas_url": "https://www.tasteatlas.com/cape-verde",
+    "continent": "Africa"
+  },
+  "central_african_republic": {
+    "name": "Central African Republic",
+    "tasteatlas_url": "https://www.tasteatlas.com/central-african-republic",
+    "continent": "Africa"
+  },
+  "chad": {
+    "name": "Chad",
+    "tasteatlas_url": "https://www.tasteatlas.com/chad",
+    "continent": "Africa"
+  },
+  "chile": {
+    "name": "Chile",
+    "tasteatlas_url": "https://www.tasteatlas.com/chile",
+    "continent": "South America"
+  },
+  "china": {
+    "name": "China",
+    "tasteatlas_url": "https://www.tasteatlas.com/china",
+    "continent": "Asia"
+  },
+  "colombia": {
+    "name": "Colombia",
+    "tasteatlas_url": "https://www.tasteatlas.com/colombia",
+    "continent": "South America"
+  },
+  "comoros": {
+    "name": "Comoros",
+    "tasteatlas_url": "https://www.tasteatlas.com/comoros",
+    "continent": "Africa"
+  },
+  "croatia": {
+    "name": "Croatia",
+    "tasteatlas_url": "https://www.tasteatlas.com/croatia",
+    "continent": "Europe"
+  },
+  "cuba": {
+    "name": "Cuba",
+    "tasteatlas_url": "https://www.tasteatlas.com/cuba",
+    "continent": "North America"
+  },
+  "curacao": {
+    "name": "Curaçao",
+    "tasteatlas_url": "https://www.tasteatlas.com/curacao",
+    "continent": "North America"
+  },
+  "cyprus": {
+    "name": "Cyprus",
+    "tasteatlas_url": "https://www.tasteatlas.com/cyprus",
+    "continent": "Europe"
+  },
+  "czech_republic": {
+    "name": "Czech Republic",
+    "tasteatlas_url": "https://www.tasteatlas.com/czech-republic",
+    "continent": "Europe"
+  },
+  "democratic_republic_of_the_congo": {
+    "name": "Democratic Republic of the Congo",
+    "tasteatlas_url": "https://www.tasteatlas.com/democratic-republic-of-the-congo",
+    "continent": "Africa"
+  },
+  "denmark": {
+    "name": "Denmark",
+    "tasteatlas_url": "https://www.tasteatlas.com/denmark",
+    "continent": "Europe"
+  },
+  "djibouti": {
+    "name": "Djibouti",
+    "tasteatlas_url": "https://www.tasteatlas.com/djibouti",
+    "continent": "Africa"
+  },
+  "dominica": {
+    "name": "Dominica",
+    "tasteatlas_url": "https://www.tasteatlas.com/dominica",
+    "continent": "North America"
+  },
+  "dominican_republic": {
+    "name": "Dominican Republic",
+    "tasteatlas_url": "https://www.tasteatlas.com/dominican-republic",
+    "continent": "North America"
+  },
+  "east_timor": {
+    "name": "East Timor",
+    "tasteatlas_url": "https://www.tasteatlas.com/east-timor",
+    "continent": "Asia"
+  },
+  "ecuador": {
+    "name": "Ecuador",
+    "tasteatlas_url": "https://www.tasteatlas.com/ecuador",
+    "continent": "South America"
+  },
+  "egypt": {
+    "name": "Egypt",
+    "tasteatlas_url": "https://www.tasteatlas.com/egypt",
+    "continent": "Africa"
+  },
+  "england": {
+    "name": "England",
+    "tasteatlas_url": "https://www.tasteatlas.com/england",
+    "continent": "Europe"
+  },
+  "equatorial_guinea": {
+    "name": "Equatorial Guinea",
+    "tasteatlas_url": "https://www.tasteatlas.com/equatorial-guinea",
+    "continent": "Africa"
+  },
+  "eritrea": {
+    "name": "Eritrea",
+    "tasteatlas_url": "https://www.tasteatlas.com/eritrea",
+    "continent": "Africa"
+  },
+  "estonia": {
+    "name": "Estonia",
+    "tasteatlas_url": "https://www.tasteatlas.com/estonia",
+    "continent": "Europe"
+  },
+  "eswatini": {
+    "name": "Eswatini",
+    "tasteatlas_url": "https://www.tasteatlas.com/eswatini",
+    "continent": "Africa"
+  },
+  "ethiopia": {
+    "name": "Ethiopia",
+    "tasteatlas_url": "https://www.tasteatlas.com/ethiopia",
+    "continent": "Africa"
+  },
+  "faroe_islands": {
+    "name": "Faroe Islands",
+    "tasteatlas_url": "https://www.tasteatlas.com/faroe-islands",
+    "continent": "Europe"
+  },
+  "federated_states_of_micronesia": {
+    "name": "Federated States of Micronesia",
+    "tasteatlas_url": "https://www.tasteatlas.com/federated-states-of-micronesia",
+    "continent": "Australia"
+  },
+  "fiji": {
+    "name": "Fiji",
+    "tasteatlas_url": "https://www.tasteatlas.com/fiji",
+    "continent": "Australia"
+  },
+  "finland": {
+    "name": "Finland",
+    "tasteatlas_url": "https://www.tasteatlas.com/finland",
+    "continent": "Europe"
+  },
+  "france": {
+    "name": "France",
+    "tasteatlas_url": "https://www.tasteatlas.com/france",
+    "continent": "Europe"
+  },
+  "french_polynesia": {
+    "name": "French Polynesia",
+    "tasteatlas_url": "https://www.tasteatlas.com/french-polynesia",
+    "continent": "Australia"
+  },
+  "gabon": {
+    "name": "Gabon",
+    "tasteatlas_url": "https://www.tasteatlas.com/gabon",
+    "continent": "Africa"
+  },
+  "georgia": {
+    "name": "Georgia",
+    "tasteatlas_url": "https://www.tasteatlas.com/georgia",
+    "continent": "Europe"
+  },
+  "germany": {
+    "name": "Germany",
+    "tasteatlas_url": "https://www.tasteatlas.com/germany",
+    "continent": "Europe"
+  },
+  "ghana": {
+    "name": "Ghana",
+    "tasteatlas_url": "https://www.tasteatlas.com/ghana",
+    "continent": "Africa"
+  },
+  "greece": {
+    "name": "Greece",
+    "tasteatlas_url": "https://www.tasteatlas.com/greece",
+    "continent": "Europe"
+  },
+  "greenland": {
+    "name": "Greenland",
+    "tasteatlas_url": "https://www.tasteatlas.com/greenland",
+    "continent": "North America"
+  },
+  "grenada": {
+    "name": "Grenada",
+    "tasteatlas_url": "https://www.tasteatlas.com/grenada",
+    "continent": "North America"
+  },
+  "guam": {
+    "name": "Guam",
+    "tasteatlas_url": "https://www.tasteatlas.com/guam",
+    "continent": "Australia"
+  },
+  "guinea": {
+    "name": "Guinea",
+    "tasteatlas_url": "https://www.tasteatlas.com/guinea",
+    "continent": "Africa"
+  },
+  "guinea_bissau": {
+    "name": "Guinea-Bissau",
+    "tasteatlas_url": "https://www.tasteatlas.com/guinea-bissau",
+    "continent": "Africa"
+  },
+  "guyana": {
+    "name": "Guyana",
+    "tasteatlas_url": "https://www.tasteatlas.com/guyana",
+    "continent": "South America"
+  },
+  "haiti": {
+    "name": "Haiti",
+    "tasteatlas_url": "https://www.tasteatlas.com/haiti",
+    "continent": "North America"
+  },
+  "hungary": {
+    "name": "Hungary",
+    "tasteatlas_url": "https://www.tasteatlas.com/hungary",
+    "continent": "Europe"
+  },
+  "iceland": {
+    "name": "Iceland",
+    "tasteatlas_url": "https://www.tasteatlas.com/iceland",
+    "continent": "Europe"
+  },
+  "india": {
+    "name": "India",
+    "tasteatlas_url": "https://www.tasteatlas.com/india",
+    "continent": "Asia"
+  },
+  "indonesia": {
+    "name": "Indonesia",
+    "tasteatlas_url": "https://www.tasteatlas.com/indonesia",
+    "continent": "Asia"
+  },
+  "iran": {
+    "name": "Iran",
+    "tasteatlas_url": "https://www.tasteatlas.com/iran",
+    "continent": "Asia"
+  },
+  "iraq": {
+    "name": "Iraq",
+    "tasteatlas_url": "https://www.tasteatlas.com/iraq",
+    "continent": "Asia"
+  },
+  "ireland": {
+    "name": "Ireland",
+    "tasteatlas_url": "https://www.tasteatlas.com/ireland",
+    "continent": "Europe"
+  },
+  "israel": {
+    "name": "Israel",
+    "tasteatlas_url": "https://www.tasteatlas.com/israel",
+    "continent": "Asia"
+  },
+  "italy": {
+    "name": "Italy",
+    "tasteatlas_url": "https://www.tasteatlas.com/italy",
+    "continent": "Europe"
+  },
+  "ivory_coast": {
+    "name": "Ivory Coast",
+    "tasteatlas_url": "https://www.tasteatlas.com/ivory-coast",
+    "continent": "Africa"
+  },
+  "jamaica": {
+    "name": "Jamaica",
+    "tasteatlas_url": "https://www.tasteatlas.com/jamaica",
+    "continent": "North America"
+  },
+  "japan": {
+    "name": "Japan",
+    "tasteatlas_url": "https://www.tasteatlas.com/japan",
+    "continent": "Asia"
+  },
+  "jordan": {
+    "name": "Jordan",
+    "tasteatlas_url": "https://www.tasteatlas.com/jordan",
+    "continent": "Asia"
+  },
+  "kazakhstan": {
+    "name": "Kazakhstan",
+    "tasteatlas_url": "https://www.tasteatlas.com/kazakhstan",
+    "continent": "Asia"
+  },
+  "kenya": {
+    "name": "Kenya",
+    "tasteatlas_url": "https://www.tasteatlas.com/kenya",
+    "continent": "Africa"
+  },
+  "kiribati": {
+    "name": "Kiribati",
+    "tasteatlas_url": "https://www.tasteatlas.com/kiribati",
+    "continent": "Australia"
+  },
+  "korea": {
+    "name": "South Korea",
+    "tasteatlas_url": "https://www.tasteatlas.com/korea",
+    "continent": "Asia"
+  },
+  "kosovo": {
+    "name": "Kosovo",
+    "tasteatlas_url": "https://www.tasteatlas.com/kosovo",
+    "continent": "Europe"
+  },
+  "kuwait": {
+    "name": "Kuwait",
+    "tasteatlas_url": "https://www.tasteatlas.com/kuwait",
+    "continent": "Asia"
+  },
+  "kyrgyzstan": {
+    "name": "Kyrgyzstan",
+    "tasteatlas_url": "https://www.tasteatlas.com/kyrgyzstan",
+    "continent": "Asia"
+  },
+  "laos": {
+    "name": "Laos",
+    "tasteatlas_url": "https://www.tasteatlas.com/laos",
+    "continent": "Asia"
+  },
+  "latvia": {
+    "name": "Latvia",
+    "tasteatlas_url": "https://www.tasteatlas.com/latvia",
+    "continent": "Europe"
+  },
+  "lebanon": {
+    "name": "Lebanon",
+    "tasteatlas_url": "https://www.tasteatlas.com/lebanon",
+    "continent": "Asia"
+  },
+  "lesotho": {
+    "name": "Lesotho",
+    "tasteatlas_url": "https://www.tasteatlas.com/lesotho",
+    "continent": "Africa"
+  },
+  "liberia": {
+    "name": "Liberia",
+    "tasteatlas_url": "https://www.tasteatlas.com/liberia",
+    "continent": "Africa"
+  },
+  "libya": {
+    "name": "Libya",
+    "tasteatlas_url": "https://www.tasteatlas.com/libya",
+    "continent": "Africa"
+  },
+  "liechtenstein": {
+    "name": "Liechtenstein",
+    "tasteatlas_url": "https://www.tasteatlas.com/liechtenstein",
+    "continent": "Europe"
+  },
+  "lithuania": {
+    "name": "Lithuania",
+    "tasteatlas_url": "https://www.tasteatlas.com/lithuania",
+    "continent": "Europe"
+  },
+  "luxembourg": {
+    "name": "Luxembourg",
+    "tasteatlas_url": "https://www.tasteatlas.com/luxembourg",
+    "continent": "Europe"
+  },
+  "madagascar": {
+    "name": "Madagascar",
+    "tasteatlas_url": "https://www.tasteatlas.com/madagascar",
+    "continent": "Africa"
+  },
+  "malawi": {
+    "name": "Malawi",
+    "tasteatlas_url": "https://www.tasteatlas.com/malawi",
+    "continent": "Africa"
+  },
+  "malaysia": {
+    "name": "Malaysia",
+    "tasteatlas_url": "https://www.tasteatlas.com/malaysia",
+    "continent": "Asia"
+  },
+  "maldives": {
+    "name": "Maldives",
+    "tasteatlas_url": "https://www.tasteatlas.com/maldives",
+    "continent": "Asia"
+  },
+  "mali": {
+    "name": "Mali",
+    "tasteatlas_url": "https://www.tasteatlas.com/mali",
+    "continent": "Africa"
+  },
+  "malta": {
+    "name": "Malta",
+    "tasteatlas_url": "https://www.tasteatlas.com/malta",
+    "continent": "Europe"
+  },
+  "marshall_islands": {
+    "name": "Marshall Islands",
+    "tasteatlas_url": "https://www.tasteatlas.com/marshall-islands",
+    "continent": "Australia"
+  },
+  "mauritania": {
+    "name": "Mauritania",
+    "tasteatlas_url": "https://www.tasteatlas.com/mauritania",
+    "continent": "Africa"
+  },
+  "mauritius": {
+    "name": "Mauritius",
+    "tasteatlas_url": "https://www.tasteatlas.com/mauritius",
+    "continent": "Africa"
+  },
+  "mexico": {
+    "name": "Mexico",
+    "tasteatlas_url": "https://www.tasteatlas.com/mexico",
+    "continent": "North America"
+  },
+  "moldova": {
+    "name": "Moldova",
+    "tasteatlas_url": "https://www.tasteatlas.com/moldova",
+    "continent": "Europe"
+  },
+  "monaco": {
+    "name": "Monaco",
+    "tasteatlas_url": "https://www.tasteatlas.com/monaco",
+    "continent": "Europe"
+  },
+  "mongolia": {
+    "name": "Mongolia",
+    "tasteatlas_url": "https://www.tasteatlas.com/mongolia",
+    "continent": "Asia"
+  },
+  "montenegro": {
+    "name": "Montenegro",
+    "tasteatlas_url": "https://www.tasteatlas.com/montenegro",
+    "continent": "Europe"
+  },
+  "morocco": {
+    "name": "Morocco",
+    "tasteatlas_url": "https://www.tasteatlas.com/morocco",
+    "continent": "Africa"
+  },
+  "mozambique": {
+    "name": "Mozambique",
+    "tasteatlas_url": "https://www.tasteatlas.com/mozambique",
+    "continent": "Africa"
+  },
+  "myanmar": {
+    "name": "Myanmar",
+    "tasteatlas_url": "https://www.tasteatlas.com/myanmar",
+    "continent": "Asia"
+  },
+  "namibia": {
+    "name": "Namibia",
+    "tasteatlas_url": "https://www.tasteatlas.com/namibia",
+    "continent": "Africa"
+  },
+  "nauru": {
+    "name": "Nauru",
+    "tasteatlas_url": "https://www.tasteatlas.com/nauru",
+    "continent": "Australia"
+  },
+  "nepal": {
+    "name": "Nepal",
+    "tasteatlas_url": "https://www.tasteatlas.com/nepal",
+    "continent": "Asia"
+  },
+  "netherlands": {
+    "name": "Netherlands",
+    "tasteatlas_url": "https://www.tasteatlas.com/netherlands",
+    "continent": "Europe"
+  },
+  "new_caledonia": {
+    "name": "New Caledonia",
+    "tasteatlas_url": "https://www.tasteatlas.com/new-caledonia",
+    "continent": "Australia"
+  },
+  "new_zealand": {
+    "name": "New Zealand",
+    "tasteatlas_url": "https://www.tasteatlas.com/new-zealand",
+    "continent": "Australia"
+  },
+  "niger": {
+    "name": "Niger",
+    "tasteatlas_url": "https://www.tasteatlas.com/niger",
+    "continent": "Africa"
+  },
+  "nigeria": {
+    "name": "Nigeria",
+    "tasteatlas_url": "https://www.tasteatlas.com/nigeria",
+    "continent": "Africa"
+  },
+  "north_korea": {
+    "name": "North Korea",
+    "tasteatlas_url": "https://www.tasteatlas.com/north-korea",
+    "continent": "Asia"
+  },
+  "north_macedonia": {
+    "name": "North Macedonia",
+    "tasteatlas_url": "https://www.tasteatlas.com/north-macedonia",
+    "continent": "Europe"
+  },
+  "northern_ireland": {
+    "name": "Northern Ireland",
+    "tasteatlas_url": "https://www.tasteatlas.com/northern-ireland",
+    "continent": "Europe"
+  },
+  "norway": {
+    "name": "Norway",
+    "tasteatlas_url": "https://www.tasteatlas.com/norway",
+    "continent": "Europe"
+  },
+  "oman": {
+    "name": "Oman",
+    "tasteatlas_url": "https://www.tasteatlas.com/oman",
+    "continent": "Asia"
+  },
+  "pakistan": {
+    "name": "Pakistan",
+    "tasteatlas_url": "https://www.tasteatlas.com/pakistan",
+    "continent": "Asia"
+  },
+  "palau": {
+    "name": "Palau",
+    "tasteatlas_url": "https://www.tasteatlas.com/palau",
+    "continent": "Australia"
+  },
+  "palestine": {
+    "name": "Palestine",
+    "tasteatlas_url": "https://www.tasteatlas.com/palestine",
+    "continent": "Asia"
+  },
+  "papua_new_guinea": {
+    "name": "Papua New Guinea",
+    "tasteatlas_url": "https://www.tasteatlas.com/papua-new-guinea",
+    "continent": "Australia"
+  },
+  "paraguay": {
+    "name": "Paraguay",
+    "tasteatlas_url": "https://www.tasteatlas.com/paraguay",
+    "continent": "South America"
+  },
+  "peru": {
+    "name": "Peru",
+    "tasteatlas_url": "https://www.tasteatlas.com/peru",
+    "continent": "South America"
+  },
+  "philippines": {
+    "name": "Philippines",
+    "tasteatlas_url": "https://www.tasteatlas.com/philippines",
+    "continent": "Asia"
+  },
+  "poland": {
+    "name": "Poland",
+    "tasteatlas_url": "https://www.tasteatlas.com/poland",
+    "continent": "Europe"
+  },
+  "portugal": {
+    "name": "Portugal",
+    "tasteatlas_url": "https://www.tasteatlas.com/portugal",
+    "continent": "Europe"
+  },
+  "puerto_rico": {
+    "name": "Puerto Rico",
+    "tasteatlas_url": "https://www.tasteatlas.com/puerto-rico",
+    "continent": "North America"
+  },
+  "qatar": {
+    "name": "Qatar",
+    "tasteatlas_url": "https://www.tasteatlas.com/qatar",
+    "continent": "Asia"
+  },
+  "republic_of_the_congo": {
+    "name": "Republic of the Congo",
+    "tasteatlas_url": "https://www.tasteatlas.com/republic-of-the-congo",
+    "continent": "Africa"
+  },
+  "romania": {
+    "name": "Romania",
+    "tasteatlas_url": "https://www.tasteatlas.com/romania",
+    "continent": "Europe"
+  },
+  "russia": {
+    "name": "Russia",
+    "tasteatlas_url": "https://www.tasteatlas.com/russia",
+    "continent": "Europe"
+  },
+  "rwanda": {
+    "name": "Rwanda",
+    "tasteatlas_url": "https://www.tasteatlas.com/rwanda",
+    "continent": "Africa"
+  },
+  "saint_kitts_and_nevis": {
+    "name": "Saint Kitts and Nevis",
+    "tasteatlas_url": "https://www.tasteatlas.com/saint-kitts-and-nevis",
+    "continent": "North America"
+  },
+  "saint_lucia": {
+    "name": "Saint Lucia",
+    "tasteatlas_url": "https://www.tasteatlas.com/saint-lucia",
+    "continent": "North America"
+  },
+  "saint_vincent_and_the_grenadines": {
+    "name": "Saint Vincent and the Grenadines",
+    "tasteatlas_url": "https://www.tasteatlas.com/saint-vincent-and-the-grenadines",
+    "continent": "North America"
+  },
+  "samoa": {
+    "name": "Samoa",
+    "tasteatlas_url": "https://www.tasteatlas.com/samoa",
+    "continent": "Australia"
+  },
+  "san_marino": {
+    "name": "San Marino",
+    "tasteatlas_url": "https://www.tasteatlas.com/san-marino",
+    "continent": "Europe"
+  },
+  "sao_tome_and_principe": {
+    "name": "São Tomé and Príncipe",
+    "tasteatlas_url": "https://www.tasteatlas.com/sao-tome-and-principe",
+    "continent": "Africa"
+  },
+  "saudi_arabia": {
+    "name": "Saudi Arabia",
+    "tasteatlas_url": "https://www.tasteatlas.com/saudi-arabia",
+    "continent": "Asia"
+  },
+  "scotland": {
+    "name": "Scotland",
+    "tasteatlas_url": "https://www.tasteatlas.com/scotland",
+    "continent": "Europe"
+  },
+  "senegal": {
+    "name": "Senegal",
+    "tasteatlas_url": "https://www.tasteatlas.com/senegal",
+    "continent": "Africa"
+  },
+  "serbia": {
+    "name": "Serbia",
+    "tasteatlas_url": "https://www.tasteatlas.com/serbia",
+    "continent": "Europe"
+  },
+  "seychelles": {
+    "name": "Seychelles",
+    "tasteatlas_url": "https://www.tasteatlas.com/seychelles",
+    "continent": "Africa"
+  },
+  "sierra_leone": {
+    "name": "Sierra Leone",
+    "tasteatlas_url": "https://www.tasteatlas.com/sierra-leone",
+    "continent": "Africa"
+  },
+  "singapore": {
+    "name": "Singapore",
+    "tasteatlas_url": "https://www.tasteatlas.com/singapore",
+    "continent": "Asia"
+  },
+  "slovakia": {
+    "name": "Slovakia",
+    "tasteatlas_url": "https://www.tasteatlas.com/slovakia",
+    "continent": "Europe"
+  },
+  "slovenia": {
+    "name": "Slovenia",
+    "tasteatlas_url": "https://www.tasteatlas.com/slovenia",
+    "continent": "Europe"
+  },
+  "solomon_islands": {
+    "name": "Solomon Islands",
+    "tasteatlas_url": "https://www.tasteatlas.com/solomon-islands",
+    "continent": "Australia"
+  },
+  "somalia": {
+    "name": "Somalia",
+    "tasteatlas_url": "https://www.tasteatlas.com/somalia",
+    "continent": "Africa"
+  },
+  "south_africa": {
+    "name": "South Africa",
+    "tasteatlas_url": "https://www.tasteatlas.com/south-africa",
+    "continent": "Africa"
+  },
+  "south_sudan": {
+    "name": "South Sudan",
+    "tasteatlas_url": "https://www.tasteatlas.com/south-sudan",
+    "continent": "Africa"
+  },
+  "spain": {
+    "name": "Spain",
+    "tasteatlas_url": "https://www.tasteatlas.com/spain",
+    "continent": "Europe"
+  },
+  "sri_lanka": {
+    "name": "Sri Lanka",
+    "tasteatlas_url": "https://www.tasteatlas.com/sri-lanka",
+    "continent": "Asia"
+  },
+  "sudan": {
+    "name": "Sudan",
+    "tasteatlas_url": "https://www.tasteatlas.com/sudan",
+    "continent": "Africa"
+  },
+  "suriname": {
+    "name": "Suriname",
+    "tasteatlas_url": "https://www.tasteatlas.com/suriname",
+    "continent": "South America"
+  },
+  "sweden": {
+    "name": "Sweden",
+    "tasteatlas_url": "https://www.tasteatlas.com/sweden",
+    "continent": "Europe"
+  },
+  "switzerland": {
+    "name": "Switzerland",
+    "tasteatlas_url": "https://www.tasteatlas.com/switzerland",
+    "continent": "Europe"
+  },
+  "syria": {
+    "name": "Syria",
+    "tasteatlas_url": "https://www.tasteatlas.com/syria",
+    "continent": "Asia"
+  },
+  "taiwan": {
+    "name": "Taiwan",
+    "tasteatlas_url": "https://www.tasteatlas.com/taiwan",
+    "continent": "Asia"
+  },
+  "tajikistan": {
+    "name": "Tajikistan",
+    "tasteatlas_url": "https://www.tasteatlas.com/tajikistan",
+    "continent": "Asia"
+  },
+  "tanzania": {
+    "name": "Tanzania",
+    "tasteatlas_url": "https://www.tasteatlas.com/tanzania",
+    "continent": "Africa"
+  },
+  "thailand": {
+    "name": "Thailand",
+    "tasteatlas_url": "https://www.tasteatlas.com/thailand",
+    "continent": "Asia"
+  },
+  "the_bahamas": {
+    "name": "The Bahamas",
+    "tasteatlas_url": "https://www.tasteatlas.com/the-bahamas",
+    "continent": "North America"
+  },
+  "the_gambia": {
+    "name": "The Gambia",
+    "tasteatlas_url": "https://www.tasteatlas.com/the-gambia",
+    "continent": "Africa"
+  },
+  "togo": {
+    "name": "Togo",
+    "tasteatlas_url": "https://www.tasteatlas.com/togo",
+    "continent": "Africa"
+  },
+  "tonga": {
+    "name": "Tonga",
+    "tasteatlas_url": "https://www.tasteatlas.com/tonga",
+    "continent": "Australia"
+  },
+  "trinidad_and_tobago": {
+    "name": "Trinidad and Tobago",
+    "tasteatlas_url": "https://www.tasteatlas.com/trinidad-and-tobago",
+    "continent": "North America"
+  },
+  "tunisia": {
+    "name": "Tunisia",
+    "tasteatlas_url": "https://www.tasteatlas.com/tunisia",
+    "continent": "Africa"
+  },
+  "turkiye": {
+    "name": "Turkiye",
+    "tasteatlas_url": "https://www.tasteatlas.com/turkiye",
+    "continent": "Asia"
+  },
+  "turkmenistan": {
+    "name": "Turkmenistan",
+    "tasteatlas_url": "https://www.tasteatlas.com/turkmenistan",
+    "continent": "Asia"
+  },
+  "tuvalu": {
+    "name": "Tuvalu",
+    "tasteatlas_url": "https://www.tasteatlas.com/tuvalu",
+    "continent": "Australia"
+  },
+  "uae": {
+    "name": "United Arab Emirates",
+    "tasteatlas_url": "https://www.tasteatlas.com/uae",
+    "continent": "Asia"
+  },
+  "uganda": {
+    "name": "Uganda",
+    "tasteatlas_url": "https://www.tasteatlas.com/uganda",
+    "continent": "Africa"
+  },
+  "ukraine": {
+    "name": "Ukraine",
+    "tasteatlas_url": "https://www.tasteatlas.com/ukraine",
+    "continent": "Europe"
+  },
+  "uruguay": {
+    "name": "Uruguay",
+    "tasteatlas_url": "https://www.tasteatlas.com/uruguay",
+    "continent": "South America"
+  },
+  "usa": {
+    "name": "United States of America",
+    "tasteatlas_url": "https://www.tasteatlas.com/USA",
+    "continent": "North America"
+  },
+  "uzbekistan": {
+    "name": "Uzbekistan",
+    "tasteatlas_url": "https://www.tasteatlas.com/uzbekistan",
+    "continent": "Asia"
+  },
+  "vanuatu": {
+    "name": "Vanuatu",
+    "tasteatlas_url": "https://www.tasteatlas.com/vanuatu",
+    "continent": "Australia"
+  },
+  "vatican_city": {
+    "name": "Vatican City",
+    "tasteatlas_url": "https://www.tasteatlas.com/vatican-city",
+    "continent": "Europe"
+  },
+  "venezuela": {
+    "name": "Venezuela",
+    "tasteatlas_url": "https://www.tasteatlas.com/venezuela",
+    "continent": "South America"
+  },
+  "vietnam": {
+    "name": "Vietnam",
+    "tasteatlas_url": "https://www.tasteatlas.com/vietnam",
+    "continent": "Asia"
+  },
+  "wales": {
+    "name": "Wales",
+    "tasteatlas_url": "https://www.tasteatlas.com/wales",
+    "continent": "Europe"
+  },
+  "yemen": {
+    "name": "Yemen",
+    "tasteatlas_url": "https://www.tasteatlas.com/yemen",
+    "continent": "Asia"
+  },
+  "zambia": {
+    "name": "Zambia",
+    "tasteatlas_url": "https://www.tasteatlas.com/zambia",
+    "continent": "Africa"
+  },
+  "zimbabwe": {
+    "name": "Zimbabwe",
+    "tasteatlas_url": "https://www.tasteatlas.com/zimbabwe",
+    "continent": "Africa"
+  }
+}
